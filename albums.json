@@ -1,0 +1,38 @@
+[
+  {
+    "Album Title": "A Night at the Opera",
+    "Musical Artist": "Queen",
+    "Songs": [
+      "Bohemian Rhapsody",
+      "You're My Best Friend",
+      "I Want to Break Free",
+      "The Show Must Go On",
+      "Love of My Life"
+    ],
+    "Year Released": 1975
+  },
+  {
+    "Album Title": "Purple Rain",
+    "Musical Artist": "Prince",
+    "Songs": [
+      "Purple Rain",
+      "When Doves Cry",
+      "Let's Go Crazy",
+      "I Would Die 4 U",
+      "Computer Blue"
+    ],
+    "Year Released": 1984
+  },
+  {
+    "Album Title": "The Miseducation of Lauryn Hill",
+    "Musical Artist": "Lauryn Hill",
+    "Songs": [
+      "Doo Wop (That Thing)",
+      "Ex-Factor",
+      "Lost Ones",
+      "Can't Take My Eyes Off You (featuring Tevin Campbell)",
+      "To Zion"
+    ],
+    "Year Released": 1998
+  }
+]
